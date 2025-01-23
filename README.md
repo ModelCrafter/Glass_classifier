@@ -29,7 +29,7 @@ The dataset includes 214 samples.
 ### 1. Data Preprocessing
 
 - **Handling Missing Values:** The dataset has no missing values, simplifying preprocessing.
-- **Feature Scaling:** Standardized features using \`Stander scaler\` normalization to ensure uniform model performance.
+- **Feature Scaling:** Standardized features using `Stander scaler` normalization to ensure uniform model performance.
 - **Train-Test Split:** Divided the dataset into training (80%) and testing (20%) sets.
 
 ### 2. Exploratory Data Analysis (EDA)
